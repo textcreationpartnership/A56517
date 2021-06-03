@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mr. Partrige's [sic] Prophesie Wherein are foretold the most considerable events and mutations in Great-Britain, France, Ireland, Holland, Germany, Spain, Flanders, Italy, and the Turkish Empire, &amp;c. According to the opinion of the best astrologers.</title>
+            <author>Partridge, John, 1644-1715.</author>
+         </titleStmt>
+         <extent>Approx. 19KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56517</idno><idno type="EEBO-CITATION">99832720</idno>
+  <idno type="VID">37194</idno>
+  <idno type="EEBO-PROQUEST">2240939194</idno>
+  
+            <idno type="STC">Wing P627B</idno>
+            <idno type="STC">ESTC R221410</idno>
+            <idno type="PROQUEST">99832720</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99832720e"/>
+            <note>(EEBO-TCP ; phase 2, no. A56517)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37194)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2149:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mr. Partrige's [sic] Prophesie Wherein are foretold the most considerable events and mutations in Great-Britain, France, Ireland, Holland, Germany, Spain, Flanders, Italy, and the Turkish Empire, &amp;c. According to the opinion of the best astrologers.</title>
+                  <author>Partridge, John, 1644-1715.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>printed in the year, 168[5]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Imprint date is blurred; publication date conjectured by Wing.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  Prophecies --  Early works to 1800.</term>
+               <term type="geographic_name">France --  Prophecies --  Early works to 1800.</term>
+               <term type="geographic_name">Ireland --  Prophecies --  Early works to 1800.</term>
+               <term type="geographic_name">Germany --  Prophecies --  Early works to 1800.</term>
+               <term type="geographic_name">Italy --  Prophecies --  Early works to 1800.</term>
+               <term type="geographic_name">Belgium --  Prophecies --  Early works to 1800.</term>
+               <term type="geographic_name">Turkey --  Prophecies --  Early works to 1800.</term>
+               <term type="geographic_name">Spain --  Prophecies --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="prophecy">
+            <pb n="1" facs="tcp:37194:1"/>
+            <head>M<seg rend="sup">r.</seg>
+               <hi>Partrige's</hi> PROPHESIE.</head>
+            <argument>
+               <p>WHEREIN Are foretold the most considerable Events and Mutations in <hi>Great-Britain, France, Ireland, Hol<g ref="char:EOLhyphen"/>land, Germany, Spain, Flanders, Italy,</hi> and the <hi>Turkish</hi> Empire, &amp;c. According to the Opinion of the Best ASTROLOGERS.</p>
+            </argument>
+            <p>THat the Superior have Influ<g ref="char:EOLhyphen"/>ence on the Inferior Bodies, no Man that hath not given himself over to Stupidity can deny; but that their Influence is so great that their Effects are inevitable, is more than we affirm: For to what end should we disturb and amuse the World with the unpleasant Ru<g ref="char:EOLhyphen"/>mours of horrid and dreadful Cala<g ref="char:EOLhyphen"/>mities that seem approaching, but to warn and incite Men to a use of means for the preventing of severe Judgments, which otherwise will overtake them.</p>
+            <p>I shall first acquaint the Reader, that all Aspects and Configurations in the Months have dependency in Power and Effect upon the precee<g ref="char:EOLhyphen"/>ding Lunation and Ingress of the <hi>Sun</hi> into any Cardinal Sign; and so I shall consider them.</p>
+            <p>In the beginning of this Year, we meet with an Opposition of <hi>Saturn</hi> and <hi>Mars</hi> in Cold Signs, <hi>Virgo</hi> and <hi>Pisces,</hi> after which follows an Ec<g ref="char:EOLhyphen"/>clipse of the <hi>Sun,</hi> which has a very bad Influence. That Epidemick Distemper of itching after Novelties will be no less common now than it hath been these several Years past. <hi>Saturn</hi> and <hi>Jupiter</hi> being got into <hi>Virgo,</hi> and <hi>Saturn</hi> being there in Reception with <hi>Mercury,</hi> things will be Managed with great Secrecy and Policy. And the former Oppositi<g ref="char:EOLhyphen"/>on in a little time will discover it self, in making strange Divisions among the People; and to see one Impeaching another will be no mat<g ref="char:EOLhyphen"/>ter
+<pb n="2" facs="tcp:37194:2"/> of Admiration: Also not a few shall pay their last Debts to Na<g ref="char:EOLhyphen"/>ture.</p>
+            <p>
+               <hi>Saturn</hi> by his Retrograde motion returns into <hi>Leo,</hi> at which time ma<g ref="char:EOLhyphen"/>ny Pamphlets are dispersed, for which the Authors and Printers are called to Answer. <hi>Sol</hi> Opposes the two Superiors. Many forsake Ho<g ref="char:EOLhyphen"/>nest callings and turn High-way-men. The P—sh P—sts bestir their Stumps, for their God is like to be taken away from them. The <hi>Turk</hi> is busie in his Neighbour Countries, and many▪ shortly may tast his Mer<g ref="char:EOLhyphen"/>cy. <hi>Mercury</hi> is Opposed again by <hi>Jupiter.</hi> Old Sores begin to pain. The City is uneasie and the Coun<g ref="char:EOLhyphen"/>try little better. The Trine of <hi>Ju<g ref="char:EOLhyphen"/>piter</hi> and <hi>Venus</hi> may give some ease, but heals not the Wound. <hi>Mercury</hi>'s weakness occasions decay of Trade. <hi>Saturn</hi>'s Square to <hi>Venus</hi> will make Women wear Tears on their Faces instead of Pearl. The Effects of the <hi>Comet</hi> 1680 will I fear ere long be discovered. God preserve the Life and Health of all our great ones, and our City from contagious distempers. The Square of <hi>Sol</hi> and <hi>Saturn</hi> denotes Fears, Anxieties and Imprisonment to great ones, and that Rulers and Magistrates will fall out among them<g ref="char:EOLhyphen"/>seves; and the Conjunction of <hi>Mars</hi> and <hi>Mercury</hi> fills the Nation with Thieves; and I fear the time is at hand, when no body can call any thing his own save Tribulation and Affliction.</p>
+            <p>The Conjunction of the <hi>Sun</hi> and <hi>Mars</hi> will have a strange Effect in some Countries in <hi>Europe,</hi> and some Prince perhaps East from <hi>England</hi> finds it true. Let them therefore b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Wise betimes. Some Money'd M<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> shall suffer <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oss, and that from the Breaking of some great Banker or Bankers, in and about the City of <hi>London;</hi> some Clergy men may▪ be Frown'd upon by their Prince, and several belonging to the Law turn'd out.</p>
+            <p>In the Figure we find <hi>Gemini</hi> Ascending, and <hi>Mercury</hi> Lord of the Ascendant in <hi>Scorpio,</hi> a fixed violent Sign, and all the seven Planets in the Ffth and Sixth Houses of Heaven, and under the Earth. This shews some great Meeting or Council con<g ref="char:EOLhyphen"/>vened to consult about the Affairs of Nations; the Design is consi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<g ref="char:EOLhyphen"/>rabl as well as Politick, for it is in the House of <hi>Mercury,</hi> and his great<g ref="char:EOLhyphen"/>est Dignities too. The occasion of this Consultation is by reason of some defeat either in Council or Arms some few Weeks before this Conjuction; and it is so general, that the whole Faction both Men and Women are engaged both for Council and Action; but Debau<g ref="char:EOLhyphen"/>chery will either prevent or corrupt the Enterprize designed: It is for some undertaking to confederate in Arms or some other hostile combi<g ref="char:EOLhyphen"/>nation, in which several are Solici<g ref="char:EOLhyphen"/>ted to be engaged, as we may see by so many in the Fifth House, which
+<pb n="3" facs="tcp:37194:2"/> signifies Ambassadors, Agents, Mes<g ref="char:EOLhyphen"/>sengers, and such like Servants, to a Prince or State▪ these are sent to engage some Prince or Princes into a League or Aliance, or to treat or negotiate about Peace, <hi>&amp;c.</hi>
+            </p>
+            <p>As to the Month of <hi>February,</hi> the Square of the <hi>Sun</hi> and <hi>Mars,</hi> and the Square of the <hi>Sun</hi> and <hi>Jupiter,</hi> with which the last Month ended, will afford us Action enough for this. Some parts beyond <hi>Sea,</hi> where <hi>Diets</hi> and other <hi>State Assemblies</hi> are Convocated, (as divers about this time seem to be) have divers Meet<g ref="char:EOLhyphen"/>ings to little purpose, and all pro<g ref="char:EOLhyphen"/>ceed from the different Opinions in those Concerned; every one dri<g ref="char:EOLhyphen"/>ving on his own Interest in which he is engaged. But the Trine of <hi>Jupiter</hi> and <hi>Mercury,</hi> will at last bring them to an Agreement, by the help of <hi>Venus</hi> and her Trine, and then <hi>Venient Rumores Pravi &amp; Ter<g ref="char:EOLhyphen"/>ribilis:</hi> you will shortly here what these Meetings were for, and against whom. There is now an Opposi<g ref="char:EOLhyphen"/>tion of the <hi>Sun</hi> and <hi>Saturn,</hi> here on the Radical place of the <hi>French Kings</hi> Sun, and in the Square of the Emperours; you will certainly here of some kind of Disturbance, or Commotion, in some of those Trans<g ref="char:EOLhyphen"/>marine parts: The <hi>Stars,</hi> shew ho<g ref="char:EOLhyphen"/>stile Preparations.</p>
+            <p>The next Month begins with de<g ref="char:EOLhyphen"/>licate Gilded pretences, which makes some of our Forreign Neighbours, have strange hopes of some of their past Proceeding. <hi>Sed vide, Mox Videbis;</hi> you will shortly see what the effects of fair words is. And this doth principally concern the parts of <hi>Spain,</hi> towards <hi>Italy,</hi> and the <hi>Mediterranian,</hi> some part of <hi>Hungary.</hi> From these beginnings, will at last proceed Wars and Blood<g ref="char:EOLhyphen"/>shed, <hi>venient Contentione, inter Di<g ref="char:EOLhyphen"/>vites &amp; Magnates:</hi> About Rights Possessions and Properties; The great Men of Nations shall Differ; divers City's in <hi>France,</hi> seem to be in an ill Condition either for Peace or Trade. And I fear something in that Kingdom is preparing, and not far off; neither when it comes will it be like the Overflowing of <hi>Nile. A Caelo Omnia.</hi> This is a Month of great Motion in Noise and Consults; and things seem to hasten towards Action: <hi>Sed Nihil Factum,</hi> I rather Judge Impeachments and Quarrels among Great Men of Nations, and the Fall of Great Men by that means.</p>
+            <p>In the next Month the late Square of <hi>Mercury</hi> and <hi>Mars,</hi> from <hi>Sagitari<g ref="char:EOLhyphen"/>us</hi> and <hi>Virgo,</hi> will not give Wars between Nation and Nation, but private differences in Princes Courts Divisions in Councils, and Trea<g ref="char:EOLhyphen"/>cherous Actions of all kinds, among Men: And this seems principally to concern <hi>France Spain</hi> and <hi>England,</hi> also, (but in a less degree) how<g ref="char:EOLhyphen"/>ever <hi>Germany,</hi> and its Emperour, will bare a share and part in its Effects: Also much News arrives about this time in the <hi>Eastern</hi> parts
+<pb n="4" facs="tcp:37194:3"/> of the World; and those not far off neither: And this of divers qualities; some give account of the Confusi<g ref="char:EOLhyphen"/>ons abroad; some tell of the Gran<g ref="char:EOLhyphen"/>deur of the <hi>French, (sed non crede;</hi>) some give Intelligence of the In<g ref="char:EOLhyphen"/>trigues of <hi>Europe</hi> which are now very near at an End; and this a few Months will shew: A new cause, gives new matter, and new Actors to man<g ref="char:EOLhyphen"/>age it. The Trine of <hi>Saturn</hi> and the <hi>Sun</hi> from <hi>Virgo</hi> and <hi>Taurus,</hi> with the assistance of <hi>Mercury</hi>'s Trine, also gives preferment to some Grave Pro<g ref="char:EOLhyphen"/>ficient belonging to the Gown.</p>
+            <p>As to the Month of <hi>May,</hi> we may observe the Affairs of Men and Na<g ref="char:EOLhyphen"/>tions, both then and through the whole Summer, and part also of the Winter, will be influced more or less by this double Square of <hi>Saturn</hi> and <hi>Mars,</hi> from <hi>Virgo</hi> a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d <hi>Sagitarius:</hi> But the Effects thereof, will not ap<g ref="char:EOLhyphen"/>pear till towards the end of this Month, and more in the next; but most of all in <hi>August,</hi> about the time they make their <hi>3d.</hi> Square. And this carries a threefold effect, (1) It gives Violence among Mankind in generl. (2) It presageth a Plot in <hi>West Turkey:</hi> And (3.) It will give strange and unusual Weather. And pray let these things be obser<g ref="char:EOLhyphen"/>ved, for the fullness of time is al<g ref="char:EOLhyphen"/>most come. <hi>Deus Laudatur.</hi> How full of Business the States-men of <hi>Europe</hi> are now in Meetings and Consultations; and the <hi>Clergy</hi> like<g ref="char:EOLhyphen"/>wise. Perhaps some Convocation about this time in <hi>France,</hi> &amp;c. I could tell you who the Plotters be<g ref="char:EOLhyphen"/>fore-mentioned are too: But—not a word of the <hi>P—sh</hi> Crew this Year. <hi>Fiat justitia;</hi> let God arise, and his Enemies be scattered.</p>
+            <p>In <hi>June</hi> the <hi>Snake</hi> in the Grass is not Discovered. <hi>R<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ta▪ in Rota:</hi> The pleasure of the Artist is to lay the Design, and that of the Specta<g ref="char:EOLhyphen"/>tor to see it take Effect. Hereabouts you may expect the effects of some of the last Months Aspects, to wit, the Sextile of the <hi>Sun</hi> and <hi>Mars,</hi> and the Square of the <hi>Sun</hi> and <hi>Sa<g ref="char:EOLhyphen"/>turn. Erunt rixa at{que} Discordiae lites &amp; interfectiones.</hi> Now you may ex<g ref="char:EOLhyphen"/>pect to hear of some Differrences and Quarrels, and from thence Du<g ref="char:EOLhyphen"/>els and Murthers; (the effects of too much Passion and Rage) with news of some Battle at the Lu<g ref="char:EOLhyphen"/>nation of the <hi>Sun</hi> and <hi>Moon</hi> in Con<g ref="char:EOLhyphen"/>junction with <hi>Venus</hi> in <hi>Cancer,</hi> a Po<g ref="char:EOLhyphen"/>litick Sign, and there in exact Mun<g ref="char:EOLhyphen"/>dane Opposition to <hi>Mars,</hi> and ap<g ref="char:EOLhyphen"/>plying to a Zodical Opposition, seems also to import and shew some Eminent and Famous Wedding, or the reunion of some Friends long at Differrence. Methinks the Squre of the <hi>Sun</hi> and <hi>Venus</hi> to <hi>Jupiter,</hi> shews a remove among the Gown-Men.</p>
+            <p>But now in <hi>July</hi> the hurry of the World seems to be allayed in Pub<g ref="char:EOLhyphen"/>lick; that is, things are not so much talk'd of as they were awhile ago; but still the old Leven remains, and
+<pb n="5" facs="tcp:37194:3"/> that will again ferment, for true Malice knows no Bounds, nor can terminate any where but in the Grave; well let them go on, and they shall have other work when they least expect it. <hi>France</hi> and <hi>Spain</hi> look to it, there is the Star <hi>Jupiter</hi> in the last Lunation, in a Mundane parrallel with <hi>Mars,</hi> in Square to the <hi>Sun, Moon</hi> and <hi>Venus;</hi> and now in Square to <hi>Mercury,</hi> chargeth some Eminent Civilion, Common Lawyer or Clergy-man with some Crimes of an unhappy consequence. <hi>Erunt rixae inter sapietes legis:</hi> Skirmishing and Fighting in those Countries where Armies are in the Field; but especially about the Frontires of some parts of <hi>Spain, Hungary Dal<g ref="char:EOLhyphen"/>matia,</hi> &amp;c. <hi>Mercury</hi> is swift in his Maturine, Occidentally is five times joyned to the Superiors this Month; <hi>Quid agiter terris?</hi>
+            </p>
+            <p>In <hi>August</hi> the Conjunction of <hi>Saturn</hi> and <hi>Venus,</hi> considered with the Square of <hi>Mars</hi> and <hi>Venus,</hi> may give some light to the effect of both; and indeed shews some Eminent Lady's forsaking either her Fathers House or her Hus<g ref="char:EOLhyphen"/>bands Bed, and this on pretence of Severity. <hi>Significant multas for<g ref="char:EOLhyphen"/>nicationes magnum cupiditatum in<g ref="char:EOLhyphen"/>ter mulieres &amp; viros contra legem.</hi> About this time we may hear of some Bankers, Merchants, or other Men of Credit and Dealing go off, (which People generally call Break<g ref="char:EOLhyphen"/>ing) and so defraud and wrong their Creditors, <hi>&amp;c. Europe</hi> is now almost ready for Distraction and Di<g ref="char:EOLhyphen"/>vision: Here is somthing ready to break out that will carry a strange consequence in the end: It should be either some Murther, breach of League; Death of a great and Em<g ref="char:EOLhyphen"/>inent Man, or the Surprize of some Town or Castle on the Frontiers of a Neighbouring Country: It is now at the Door, Death is always bold, and sometimes takes two at once; <hi>Audi &amp; attende.</hi>
+            </p>
+            <p>About the beginning of <hi>September</hi> there will be an Ecclips in <hi>West-Turkey,</hi> and yet only visible to the great City thereof; but it will be known and heard of through the whole Country in a short time, and that to the Admiration of all. And the effect of this presageth the fall of some great Man, which will not be much Lamented; Death is an inevitable Fate; and those occult ways of Stabs and Poyson are no new things in the World. <hi>Purpure<g ref="char:EOLhyphen"/>am vomit ille animam cum sanguine mista: Mars</hi> and <hi>Saturn</hi> have made a <hi>3d.</hi> Square from <hi>Virgo</hi> and <hi>Sagi<g ref="char:EOLhyphen"/>tarius,</hi> and immediately after the Conjunction of the <hi>Sun</hi> and <hi>Saturn,</hi> and a Square of the <hi>Sun</hi> and <hi>Mars;</hi> and this last from cardinal Signs: of Murthers, V<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lanies, with Robbe<g ref="char:EOLhyphen"/>ries, and the like Mischiefs; great Discords and Differrences among Men of Quality; Accusations and Impeachments, and it may be Exe<g ref="char:EOLhyphen"/>cutions too, for some matters a<g ref="char:EOLhyphen"/>gainst the State; and this doth as
+<pb n="6" facs="tcp:37194:4"/> well concern <hi>France</hi> and other parts as <hi>England: Multa cadunt.</hi>
+            </p>
+            <p>The late Cofiguration of <hi>Saturn Mars</hi> and the <hi>Sun,</hi> have a great In<g ref="char:EOLhyphen"/>fluence on the next Month, and this Quarter of the Year; they most of them falling too near the Ingress of the <hi>Sun,</hi> into the Coelestial Ballance: yet this Month of <hi>October,</hi> makes no great alteration in the publick Affaires of Nations and Kingdoms, unless it be in turning out and puting in Some new Judges, Justices, Civilian, <hi>&amp;c.</hi> And indeed there seems to be some occasion for it. <hi>Video Meliora Probu{que} &amp;c.</hi> The Square of <hi>Mars</hi> and <hi>Mercury,</hi> from cardinal Signs, gives great rea<g ref="char:EOLhyphen"/>son to suspect three Things. (1) Some publick Accusation, (2) A Discovering some Papers Letters, <hi>&amp;c.</hi> Supposed to concern the State. (3) The Breaking of some great Banker and Merchant, about this time or near it: To which we may add a Discovery of Clippers, Coi<g ref="char:EOLhyphen"/>ners, or such Merchants that deal in that way and Buisiness. This Month ends with rumors of Forreign Affaires: But for all their Talk, there is little or nothing in it to the Purpose.</p>
+            <p>In the figure of the last Lunation (as to the Month of <hi>November</hi>) there was a mundane Square of <hi>Sa<g ref="char:EOLhyphen"/>turn</hi> and <hi>Mars</hi> but being in the De<g ref="char:EOLhyphen"/>scending part of the Heaven, is of the less Note: However, it falling in with this second Square of <hi>Mars</hi> and <hi>Mercury,</hi> and those other Con<g ref="char:EOLhyphen"/>figuration will make it the more Effectual and Considerable: Places of Grandure are slippery, as may be seen by the motion and alte<g ref="char:EOLhyphen"/>ration of those that enjoy them. All that Felicity that comes by great Men, is subject to Catastrophe: <hi>Fata Regunt Homines,</hi> some Accused in high Places, and their Accusation followed with Confinement: 'tis well 'tis no worse too: Much Ridg<g ref="char:EOLhyphen"/>edness makes Children Rebellious; and therefore wonder not if you hear of some great Stolan Wedding, or of a great Lady that takes up a new Trade in defiance of Old; but Submission and Tears, (which some Women have Excellent Skill in) does Wonders in Reconciliation: The Month ends with divers kind of Privacy; that's well that ends well.</p>
+            <p>The Month of <hi>December,</hi> begins with a great Ecclips of the <hi>Moon</hi> in in the <hi>20th.</hi> Degree of <hi>Gemini,</hi> the Horoscope of <hi>London:</hi> And <hi>Prochus</hi> tells us that an Ecclips of the <hi>Moon</hi> the last 10 Degree of <hi>Gemini, Pre<g ref="char:EOLhyphen"/>stantis famae viri obitum, ostendit.</hi> This I shall say in short, that <hi>Saturn</hi> at the time of this <hi>Deliquium,</hi> is in Square to both the Luminaries, as well Mundane as Zodical, and therefore of more Force; and also fall in the Horoscope of <hi>London:</hi> therefore we may Expect some of these Effects of it, and perhaps to the purpose too, for this is a Month of considerable Action; it threatens
+<pb n="7" facs="tcp:37194:4"/>
+               <hi>London</hi> with some <hi>Saturnine</hi> Di<g ref="char:EOLhyphen"/>sease, perhaps of the Bowels; and also some Disgust amongst the Go<g ref="char:EOLhyphen"/>vernours of the City; which will be soon over and forgot. <hi>Salus Ci<g ref="char:EOLhyphen"/>vitati,</hi> The Month and Year ends with News from <hi>Flanders,</hi> and other parts of the Low-countreys about some Martial Affairs, perhaps the Nominating and Electing some new Sea Officers and Commanders.</p>
+            <p>In the close of this Year some Countries are threatned with per<g ref="char:EOLhyphen"/>secution for Religion, and that pretty sharp too; The old Adver<g ref="char:EOLhyphen"/>sary of Mans Happiness will not cease to stir up the Wicked against the Just: and this is like to happen in some places in <hi>France,</hi> and it is to be feared many will be forced into Countries for Conscience sake; the great Whore will never be weary of her Cruelties till the last Vials are poured out upon her, when the joy<g ref="char:EOLhyphen"/>ful tidings shall come abroad, that, <hi>Babylon the Great is Fallen, is fallen;</hi> which all good Christians earnestly long for, and which we hope ere long shall come to pass.</p>
+            <p>To conclude, we have reason to fear this Year may prove more Ca<g ref="char:EOLhyphen"/>lamitous then most we have yet seen, there being scarce any Afflicti<g ref="char:EOLhyphen"/>on incident to men which we are not more or less threatned with, But yet, as I said before, these Judg, ments may be averted (if we be not obstinate) by our Repentance and Amendment of our Lives. Let us not therefore any more be active in drawing down Judgments upon our selves, but let us admire infinite Mercy that has spared us so long, and that shews how unwilling he is to destroy us by his placing his Signs in the Heavens for our Admo<g ref="char:EOLhyphen"/>nition; let us deprecate that great wrath we have incensed, by our continual Addresses to the Throne of Grace; let us fear God, obey the King and live in Peace, and Union together; which if we do, we need not fear (notwithstanding the great<g ref="char:EOLhyphen"/>ness of our Sins, or Malice of our Enemies, or the signs of Heaven) but we shall yet dwell safely every Man under his Vine, and under his Fig-tree.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed in the Year, 168<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
